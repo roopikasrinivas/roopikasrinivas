@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @roopikasrinivas
 - 👀 I’m interested in coding and hiking
-- 🌱 I’m currently learning: back to basics
-- 💞️ I’m looking to collaborate on : Nothing right now
-- 📫 How to reach me : <hibernating currently>
 
 <!---
 roopikasrinivas/roopikasrinivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
