@@ -8,13 +8,17 @@
 <br>
 :dart: Work as: I’m a Full-stack Developer @ SAP Labs
 <br>
-👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate. 
+👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate
 <br>
-:black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home :black_heart: 
+:black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home!
+:feet: Currently inactive on social media, but I go by the username roopikasrinivas
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
+### Connect with me:
 
-<br> <br> 
+[<img align="left" alt="roopikasrinivas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="roopikasrinivas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+<br />
 
 <div justifyContent="space-between">
  
