@@ -16,13 +16,14 @@
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-[<img align="left" alt="roopikasrinivas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="roopikasrinivas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+<a href="https://www.linkedin.com/in/roopikasrinivas/">
+  <img align="left" alt="Roopika Srinivas | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br />
 
 <div justifyContent="space-between">
  
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)
+<!-- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)-->
  
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
