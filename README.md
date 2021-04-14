@@ -10,9 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 I'm [Roopika Srinivas](https://www.linkedin.com/in/roopikasrinivas/). I’m a Full-stack Developer with 6+ years of industry experience. 
 
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <div align="right">
-  
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
 
 </div>
