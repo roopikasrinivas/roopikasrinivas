@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 I’m a Full-stack Developer with 6+ years of industry experience. 
 
-[![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)](https://github.com/anuraghazra/github-readme-stats)
+[![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)]
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)
 
