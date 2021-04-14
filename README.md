@@ -5,10 +5,12 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> </h4>
 
 # I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
-
-:dart: I’m a Full-stack Developer with 6+ years of industry experience. 
-- 👀 Code, Build
-- :black_heart: Mountains
+<br>
+:dart: I’m a Full-stack Developer currently working as Full Stack Software Developer @ SAP Labs. 
+<br>
+👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate. 
+<br>
+:black_heart: I spend my holidays mostly in the mountains. Himalayas is home!
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 
