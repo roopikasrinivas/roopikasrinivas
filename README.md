@@ -1,5 +1,5 @@
 <!-- 👋 Hi, I’m @roopikasrinivas
-👀 I’m interested in coding and hiking -->
+👀 I’m interested in coding and hiking
 <h4> Hey there! 👋 </h4>  -->
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> I'm [Roopika Srinivas](https://www.linkedin.com/in/roopikasrinivas/).  </h4>
