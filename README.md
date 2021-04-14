@@ -13,7 +13,7 @@ I'm [Roopika Srinivas](https://www.linkedin.com/in/roopikasrinivas/). I’m a Fu
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg) [![Thanks!]
+![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
 
 </div>
  ---
