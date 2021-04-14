@@ -6,13 +6,15 @@
 
 # I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
 <br>
-:dart: I’m a Full-stack Developer @ SAP Labs
+:dart: Work as: I’m a Full-stack Developer @ SAP Labs
 <br>
 👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate. 
 <br>
 :black_heart: I spend my holidays mostly in the mountains. Himalayas is home!
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
+
+<br> <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)
 
