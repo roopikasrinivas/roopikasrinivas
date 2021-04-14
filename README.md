@@ -10,7 +10,7 @@
 <br>
 👀 I code and I help others to collaborate, code and build products.
 <br>
-:school: Study: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
+:books: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
 :black_heart: I spend most of my holidays in the mountains. Himalayas is home!
 <br>
