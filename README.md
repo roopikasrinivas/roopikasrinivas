@@ -2,7 +2,8 @@
 👀 I’m interested in coding and hiking
 <h4> Hey there! 👋 </h4>  -->
 
-<h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> I'm [Roopika Srinivas](https://www.linkedin.com/in/roopikasrinivas/).  </h4>
+<h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px">  </h4>
+# I'm [Roopika Srinivas](https://www.linkedin.com/in/roopikasrinivas/).
 
 - I’m a Full-stack Developer with 6+ years of industry experience. 
 - 👀 I’m interested in coding and hiking 
