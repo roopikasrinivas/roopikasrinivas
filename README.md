@@ -12,7 +12,7 @@
 <br>
 :school: Study: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
-:black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home!
+:black_heart: I spend most of my holidays in the mountains. Himalayas is home!
 <br>
 :feet: Currently inactive on social media, but I go by the username roopikasrinivas
 
