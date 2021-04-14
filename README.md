@@ -6,9 +6,11 @@
 
 # I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
 <br>
-:dart: Work as: I’m a Full-stack Developer @ SAP Labs
+:dart: Work: I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
 <br>
-👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate
+👀: Inshort, I code and I help others to collaborate, code and build products
+<br>
+:school: Study: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
 :black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home!
 <br>
