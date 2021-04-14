@@ -14,11 +14,11 @@
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 
-<br> <br>
+<br> 
 
+<div justifyContent="space-between">
+ 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)
-
-<div align="right">
  
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
