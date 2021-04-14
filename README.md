@@ -11,12 +11,13 @@
 👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate
 <br>
 :black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home!
+<br>
 :feet: Currently inactive on social media, but I go by the username roopikasrinivas
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/roopikasrinivas/)
+[LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) [Medium](https://medium.com/@roopikasrinivas)
 
 <br />
 
