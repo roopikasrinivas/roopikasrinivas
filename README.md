@@ -16,9 +16,8 @@
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/roopikasrinivas/">
-  <img align="left" alt="LinkedIn" />
-</a>
+[!LinkedIn](https://www.linkedin.com/in/roopikasrinivas/)
+
 <br />
 
 <div justifyContent="space-between">
