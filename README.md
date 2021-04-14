@@ -10,7 +10,7 @@
 <br>
 👀 Job role: Technical topic lead and Cross team collaboration enabler. Inshort I code and I help others to code and collaborate. 
 <br>
-:black_heart: I spend my holidays mostly in the mountains. Himalayas is home!
+:black_heart: Love to: Spend most of my holidays in the mountains. Himalayas is home ❤
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 
