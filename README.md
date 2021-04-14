@@ -17,7 +17,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/roopikasrinivas/">
-  <img align="left" alt="Roopika Srinivas | LinkedIn" width="21px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
+  <img align="left" alt="LinkedIn" />
 </a>
 <br />
 
