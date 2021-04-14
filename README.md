@@ -7,7 +7,7 @@
 - I’m a Full-stack Developer with 6+ years of industry experience. 
 - 👀 I’m interested in coding and hiking 
 
-<!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)
+<!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)
 
