@@ -8,7 +8,7 @@
 <br>
 :dart: Work: I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
 <br>
-👀: Inshort, I code and I help others to collaborate, code and build products
+👀 I code and I help others to collaborate, code and build products.
 <br>
 :school: Study: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
