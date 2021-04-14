@@ -6,7 +6,7 @@
 
 # I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
 <br>
-:dart: Work: I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
+:dart: I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
 <br>
 👀 I code and I help others to collaborate, code and build products.
 <br>
