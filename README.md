@@ -6,15 +6,15 @@
 
 # I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
 <br>
-:dart: I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
+:dart:  I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
 <br>
-👀 I code and I help others to collaborate, code and build products.
+👀  I code and I help others to collaborate, code and build products.
 <br>
-:books: Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
+:books:  Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
-:black_heart: I spend most of my holidays in the mountains. Himalayas is home!
+:black_heart:  I spend most of my holidays in the mountains. Himalayas is home!
 <br>
-:feet: Currently inactive on social media, but I go by the username roopikasrinivas
+:feet:  Currently inactive on social media, but I go by the username roopikasrinivas
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
