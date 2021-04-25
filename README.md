@@ -1,6 +1,7 @@
 <!-- 👋 Hi, I’m @roopikasrinivas
 👀 I’m interested in coding and hiking
 <h4> Hey there! 👋 </h4>  -->
+<meta name="google-site-verification" content="gza4CwIjYdVqZd1nd2qc_xJQrxcQ4SVABpPv5ReU4zE" />
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> </h4>
 
