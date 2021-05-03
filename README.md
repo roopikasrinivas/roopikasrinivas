@@ -10,7 +10,7 @@
 <br>
 :books:  Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
-:black_heart:  I spend most of my holidays in the mountains. Himalayas is home.
+:black_heart:  As an avid trekker, I love spending most of my holidays in the Himalayan mountains.
 <br>
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
