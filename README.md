@@ -2,7 +2,7 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> </h4>
 
-# I'm [Roopika](https://www.linkedin.com/in/roopikasrinivas/)
+# I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
 :dart:  I’m a Full-stack Developer @ SAP Labs. Technical topic lead and Cross team collaboration enabler. 
 <br>
