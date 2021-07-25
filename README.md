@@ -19,6 +19,8 @@
 [Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas)
 
 <br />
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="roopikasrinivas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/roopikasrinivas?trk=profile-badge">Roopika Srinivas</a></div>
+              
 
 <div justifyContent="space-between">
  
