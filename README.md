@@ -4,11 +4,11 @@
 
 # I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I’m a Full-stack Developer @ SAP Labs. I'm a technical topic lead and cross team collaboration enabler. 
+:dart:  I work as a Senior Software Engineer (Full Stack). I come with 7+ years of industry experience.
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
-:books:  Currently pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
+:books:  Also pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
 <br>
 :black_heart:  As an avid trekker, I love spending most of my holidays in the Himalayan mountains. Sometimes a beach soul!
 <br>
