@@ -4,7 +4,7 @@
 
 # I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I work as a Senior Software Engineer (Full Stack). I have 7+ years of industry experience.
+:dart:  I currently work as a Senior Software Engineer (Full Stack). I have 7+ years of industry experience developing Cloud and Enterprise Software.
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
