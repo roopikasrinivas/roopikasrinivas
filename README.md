@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="gza4CwIjYdVqZd1nd2qc_xJQrxcQ4SVABpPv5ReU4zE" />
 
-<h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="30px"> </h4>
+<h4> Hey there! <img src="https://raw.githubusercontent.com/roopikasrinivas/roopikasrinivas/main/gifs/wave.gif" width="10px"> </h4>
 
 # I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
