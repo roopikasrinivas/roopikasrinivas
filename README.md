@@ -8,7 +8,7 @@
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
-:books:  Completed my M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering from Bangalore University (UVCE).
+:books:  Completed my Masters in Software Engineering from BITS Pilani. Hold a Bachelors in Computer Science and Engineering from Bangalore University (UVCE).
 <br>
 :black_heart:  As an avid trekker, I love spending most of my holidays in the Himalayan mountains. Sometimes a beach soul!
 <br>
