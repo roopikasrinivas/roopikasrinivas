@@ -4,11 +4,11 @@
 
 # I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I currently work as a Senior Software Engineer (Full Stack). I have 7+ years of industry experience developing Cloud and Enterprise Software.
+:dart:  I currently work as a Senior Software Engineer and Tech Lead(Full Stack). I have 8+ years of industry experience developing Cloud and Enterprise Software.
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
-:books:  Also pursuing M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering.
+:books:  Completed my M.Tech in Software Engineering from BITS Pilani. Hold a Bachelor's in Computer Science and Engineering from Bangalore University (UVCE).
 <br>
 :black_heart:  As an avid trekker, I love spending most of my holidays in the Himalayan mountains. Sometimes a beach soul!
 <br>
