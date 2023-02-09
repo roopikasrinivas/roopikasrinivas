@@ -16,7 +16,7 @@
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-[Website](https://roopikasrinivas.github.io/){:target="_blank" rel="noopener"} | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/){:target="_blank" rel="noopener"} | [Medium](https://medium.com/@roopikasrinivas){:target="_blank" rel="noopener"} | [HashNode](https://roopikasrinvas.hashnode.dev/){:target="_blank" rel="noopener"}
+[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas) | [HashNode](https://roopikasrinvas.hashnode.dev/)
 
 <br />
               
