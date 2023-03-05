@@ -17,8 +17,6 @@
 ### Connect with me:
 
 [Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas)
-
-<br />
               
 
 <div justifyContent="space-between">
@@ -28,4 +26,3 @@
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
 </div>
- ---
