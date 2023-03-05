@@ -6,7 +6,7 @@
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
-:books:  Masters in Software Engineering from BITS Pilani. 
+:books:  Masters in Software Engineering from BITS Pilani. Bachelors in Computer Science and Engineering from Bangalore University.
 <br>
 :black_heart:  I spend my time off hiking in the Himalayan mountains. Sometimes a beach soul.
 <br>
