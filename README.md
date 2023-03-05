@@ -2,7 +2,7 @@
 
 ## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I'm a full stack developer, based out of Bengaluru, India. 
+:dart:  I'm a full stack developer with 8+ years of experience in developing Cloud and Enterprise software.
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
