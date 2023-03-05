@@ -1,8 +1,6 @@
 <meta name="google-site-verification" content="gza4CwIjYdVqZd1nd2qc_xJQrxcQ4SVABpPv5ReU4zE" />
 
-<h4> Hey there! 👋 </h4>
-
-# I'm [Roopika](https://roopikasrinivas.github.io/)
+## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
 :dart:  I'm a full stack developer, based out of Bengaluru, India. 
 <br>
@@ -20,8 +18,6 @@
               
 
 <div justifyContent="space-between">
- 
-<!-- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/roopikasrinivas/)-->
  
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
