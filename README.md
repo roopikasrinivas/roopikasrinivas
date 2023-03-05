@@ -4,13 +4,13 @@
 
 # I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I currently work as a Senior Software Engineer and Tech Lead(Full Stack). I have 8+ years of industry experience developing Cloud and Enterprise Software.
+:dart:  I'm a full stack developer, based out of Bengaluru, India. 
 <br>
 👀  I code and I help others to collaborate, code and build products.
 <br>
-:books:  Completed my Masters in Software Engineering from BITS Pilani. Hold a Bachelors in Computer Science and Engineering from Bangalore University (UVCE).
+:books:  Masters in Software Engineering from BITS Pilani. 
 <br>
-:black_heart:  As an avid trekker, I love spending most of my holidays in the Himalayan mountains. Sometimes a beach soul!
+:black_heart:  I spend my time off hiking in the Himalayan mountains. Sometimes a beach soul.
 <br>
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
