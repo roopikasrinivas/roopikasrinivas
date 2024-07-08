@@ -14,12 +14,9 @@
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas) | [Roadmap](https://roadmap.sh/u/roopikas) | [Daily Dev](https://app.daily.dev/roopikasrinivas)
+[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas) 
               
 <div justifyContent="space-between">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668b5bd5501413692bdbc168?variant=light&roadmaps=backend%2Cfull-stack" alt="roadmap.sh"/></a>
-<br>
- 
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
 </div>
