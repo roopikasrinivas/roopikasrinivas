@@ -16,7 +16,6 @@
 
 [Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas) | [Roadmap](https://roadmap.sh/u/roopikas) | [Daily Dev](https://app.daily.dev/roopikasrinivas)
               
-<br>
 <div justifyContent="space-between">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668b5bd5501413692bdbc168?variant=light&roadmaps=backend%2Cfull-stack" alt="roadmap.sh"/></a>
 <br>
