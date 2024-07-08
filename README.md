@@ -14,9 +14,11 @@
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
 ### Connect with me:
 
-[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas) 
+[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas)
               
+
 <div justifyContent="space-between">
+ 
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
  
 </div>
