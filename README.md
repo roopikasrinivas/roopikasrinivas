@@ -18,7 +18,7 @@
               
 
 <div justifyContent="space-between">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668b5bd5501413692bdbc168?variant=light&roadmaps=backend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668b5bd5501413692bdbc168?variant=dark&roadmaps=backend%2Cfull-stack" alt="roadmap.sh"/></a>
 <br>
  
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
