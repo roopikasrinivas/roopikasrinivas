@@ -2,20 +2,23 @@
 
 ## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)
 <br>
-:dart:  I'm a full stack developer with 8+ years of experience in developing Cloud and Enterprise software.
-<br>
-👀  I code and I help others to collaborate, code and build products.
-<br>
-:books:  Masters in Software Engineering from BITS Pilani. Bachelors in Computer Science and Engineering from Bangalore University.
-<br>
-:black_heart:  I spend my time off hiking in the Himalayan mountains. Sometimes a beach soul.
-<br>
+
+🎯 I'm a senior full stack developer with expertise in developing Cloud and Enterprise software.
+
+📘 **Currently learning:**
+- React, Next.js & modern frontend architecture  
+- Generative AI and Agentic AI
+  
+👀 I code and I help others to collaborate, code and build products.  
+🎓 Masters in Software Engineering from BITS Pilani.  
+🎓 Bachelors in Computer Science and Engineering from Bangalore University.  
+🖤 I spend my time off hiking in the Himalayan mountains. Sometimes a beach soul.
 
 <!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
+
 ### Connect with me:
 
 [Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas)
-              
 
 <div justifyContent="space-between">
  
