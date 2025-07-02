@@ -5,9 +5,9 @@
 
 🎯 I'm a senior full stack developer with expertise in developing Cloud and Enterprise software.
 
-📘 **Currently learning:**
-- React, Next.js & modern frontend architecture  
+📘 **Currently learning:** 
 - Generative AI and Agentic AI
+- React, Next.js & modern frontend architecture 
   
 👀 I code and I help others to collaborate, code and build products.  
 🎓 Masters in Software Engineering from BITS Pilani.  
