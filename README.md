@@ -13,9 +13,3 @@ I love enabling cross-team collaboration, writing clean, maintainable code, and 
 - React, Next.js, and modern frontend architecture
 
 🏔️ Outside of tech, you’ll find me hiking in the Himalayas or relaxing by the beach.
-
----
-
-<div align="center">
-
-![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
