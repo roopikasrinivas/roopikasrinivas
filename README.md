@@ -1,27 +1,28 @@
 <meta name="google-site-verification" content="gza4CwIjYdVqZd1nd2qc_xJQrxcQ4SVABpPv5ReU4zE" />
 
 ## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)
-<br>
 
-🎯 I'm a senior full stack developer with expertise in developing Cloud and Enterprise software.
+🎯 I'm a **Senior Full Stack Developer** with a passion for building scalable Cloud and Enterprise software solutions.  
+I love enabling cross-team collaboration, writing clean, maintainable code, and delivering impactful products.
 
-📘 **Currently learning:** 
-- Generative AI and Agentic AI
-- React, Next.js & modern frontend architecture 
-  
-👀 I code and I help others to collaborate, code and build products.  
-🎓 Masters in Software Engineering from BITS Pilani.  
-🎓 Bachelors in Computer Science and Engineering from Bangalore University.  
-🖤 I spend my time off hiking in the Himalayan mountains. Sometimes a beach soul.
+🎓 I hold a Master's in Software Engineering from **BITS Pilani**, and a Bachelor's in Computer Science from **Bangalore University**.
 
-<!-- ![Roopika's Github Stats](https://github-readme-stats.vercel.app/api?username=roopikasrinivas)-->
+🌱 Currently learning:
+- Generative AI & Agentic AI  
+- React, Next.js, and modern frontend architecture
 
-### Connect with me:
+🏔️ Outside of tech, you’ll find me hiking in the Himalayas or relaxing by the beach.
 
-[Website](https://roopikasrinivas.github.io/) | [LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [Medium](https://medium.com/@roopikasrinivas)
+---
 
-<div justifyContent="space-between">
- 
+### 📡 Let's Connect
+
+[🌐 Website](https://roopikasrinivas.github.io/) | [💼 LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [✍️ Medium](https://medium.com/@roopikasrinivas)
+
+---
+
+<div align="left">
+
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
- 
+
 </div>
