@@ -1,6 +1,7 @@
 <meta name="google-site-verification" content="gza4CwIjYdVqZd1nd2qc_xJQrxcQ4SVABpPv5ReU4zE" />
 
-## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)
+## Hey 👋, I'm [Roopika](https://roopikasrinivas.github.io/)  
+[🌐 Website](https://roopikasrinivas.github.io/) • [💼 LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) • [✍️ Medium](https://medium.com/@roopikasrinivas)
 
 🎯 I'm a **Senior Full Stack Developer** with a passion for building scalable Cloud and Enterprise software solutions.  
 I love enabling cross-team collaboration, writing clean, maintainable code, and delivering impactful products.
@@ -15,14 +16,6 @@ I love enabling cross-team collaboration, writing clean, maintainable code, and 
 
 ---
 
-### 📡 Let's Connect
-
-[🌐 Website](https://roopikasrinivas.github.io/) | [💼 LinkedIn](https://www.linkedin.com/in/roopikasrinivas/) | [✍️ Medium](https://medium.com/@roopikasrinivas)
-
----
-
-<div align="left">
+<div align="center">
 
 ![ViewCount](https://views.whatilearened.today/views/github/roopikasrinivas/roopikasrinivas.svg)
-
-</div>
